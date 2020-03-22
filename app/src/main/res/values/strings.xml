@@ -1,0 +1,14 @@
+<resources>
+    <string name="facebook_app_id">536320553548280</string>
+    <string name="fb_login_protocol_scheme">fb536320553548280</string>
+    <!--Login-->
+    <string name="login_title">Login</string>
+    <!--Home-->
+    <string name="app_name">毀滅計畫</string>
+    <string name="home">home</string>
+    <string name="features">features</string>
+    <string name="info">info</string>
+    <string name="power_switch">switch</string>
+    <!--features-->
+    <string name="switch_text">close/open</string>
+</resources>
